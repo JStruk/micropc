@@ -1,0 +1,10 @@
+# config/cloudinary.yml
+development:
+  cloud_name: "hdgsimxfr"
+  api_key: "389156231446395"
+  api_secret: "dcvUYaVej-co3mVHGf_CXfeFrCc"
+
+production:
+  cloud_name: "hdgsimxfr"
+  api_key: "389156231446395"
+  api_secret: "dcvUYaVej-co3mVHGf_CXfeFrCc"
